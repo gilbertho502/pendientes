@@ -1,0 +1,13 @@
+opcion de devolucion.
+
+La parte mas importante sera el usuario y no el producto.
+
+Mostrar informacion del vendedor.
+Motivar a los usuarios en las ventas o fiabilidad.
+
+Secciones de reputacion de los vendedores.
+
+.categorias al lado del buscador
+
+agregar menu para reseña del vendedor o dar opiniones al vendedor.
+
